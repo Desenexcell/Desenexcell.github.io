@@ -44073,7 +44073,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 
-
+@media (max-width: 575px) {
+  .u-header .u-nav-2 {
+    margin: 20px auto 0;
+  }
+}
  .u-footer {
   background-image: none;
 }
