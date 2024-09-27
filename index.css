@@ -191,8 +191,8 @@
 .u-section-2 .u-text-1 {
   font-weight: 700;
   text-transform: none;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
@@ -200,7 +200,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
@@ -512,8 +512,8 @@
 .u-section-3 .u-text-1 {
   font-weight: 700;
   text-transform: none;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
@@ -522,7 +522,7 @@
 }
 
 .u-section-3 .u-text-2 {
-  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
@@ -841,8 +841,8 @@
 .u-section-4 .u-text-1 {
   font-weight: 700;
   text-transform: none;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
@@ -1058,8 +1058,6 @@
   }
 
   .u-section-4 .u-text-1 {
-    --animation-custom_in-translate_x: -300px;
-    --animation-custom_in-translate_y: 0px;
     font-size: 1.25rem;
     width: auto;
     margin-top: 15px;
@@ -1145,8 +1143,8 @@
 .u-section-5 .u-text-1 {
   font-weight: 700;
   text-transform: none;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
